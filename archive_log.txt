@@ -1,0 +1,3 @@
+Archived /home/wabson/test-logs to ./archives/logs_archive_20250419_154425.tar.gz at Sat Apr 19 15:44:25 EDT 2025
+Archived /var/log to ./archives/logs_archive_20250419_155015.tar.gz at Sat Apr 19 15:50:16 EDT 2025
+Archived /var/log to ./archives/logs_archive_20250419_155151.tar.gz at Sat Apr 19 15:51:52 EDT 2025
